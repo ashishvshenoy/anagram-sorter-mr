@@ -1,10 +1,12 @@
 # MapReduce application to sort a large corpus of Anagrams
 MapReduce application that, given an input containing a single word per line, will group words that are anagrams of each other and sort the groups based on their size in descending order.
 
-* Example :
+Example :
+
+
 Input
 
-`abroad
+abroad
 
 early
 
@@ -20,17 +22,21 @@ untread
 
 leary
 
-relay`
+relay
 
 Intermediate Output
 
-`abroad aboard
+abroad aboard
+
 early leary layer relay
-natured unrated untread`
+
+natured unrated untread
 
 Final Output (sorted in descending order of size)
 
-`early leary layer relay
+early leary layer relay
+
 natured unrated untread
-abroad aboard`
+
+abroad aboard
 
