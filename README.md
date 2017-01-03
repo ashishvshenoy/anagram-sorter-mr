@@ -42,6 +42,6 @@ abroad aboard
 ## Usage
 This MR application runs on a multi-node cluster. First, you will load the input file (input.txt) into HDFS and run this application as:
 
-hadoop jar ac.jar AnagramSorter /input /output
+`hadoop jar ac.jar AnagramSorter /input /output`
 
 after converting the java file into a jar.
