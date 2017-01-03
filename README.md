@@ -5,14 +5,22 @@ MapReduce application that, given an input containing a single word per line, wi
 Input
 
 `abroad
+
 early
+
 natured
+
 unrated
+
 layer
+
 aboard
+
 untread
+
 leary
-relay'
+
+relay`
 
 Intermediate Output
 
